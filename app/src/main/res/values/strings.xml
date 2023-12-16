@@ -1,3 +1,66 @@
 <resources>
     <string name="app_name">rec_view_1</string>
+
+    <string-array name="icons_full_names">
+        <item>Baseline_10k_24</item>
+        <item>Baseline_10mp_24</item>
+        <item>Baseline_11mp_24</item>
+        <item>Baseline_123_24</item>
+        <item>Baseline_12mp_24</item>
+        <item>Baseline_13mp_24</item>
+        <item>Baseline_14mp_24</item>
+        <item>Baseline_15mp_24</item>
+        <item>Baseline_16mp_24</item>
+        <item>Baseline_17mp_24</item>
+        <item>Baseline_18_up_rating_24</item>
+        <item>Baseline_18mp_24</item>
+        <item>Baseline_19mp_24</item>
+        <item>Baseline_1k_24</item>
+        <item>Baseline_1k_plus_24</item>
+        <item>Baseline_1x_mobiledata_24</item>
+        <item>Baseline_20mp_24</item>
+        <item>Baseline_21mp_24</item>
+    </string-array>
+
+    <string-array name="icons_short_names">
+        <item>B10k</item>
+        <item>B10mp</item>
+        <item>B11mp</item>
+        <item>B123</item>
+        <item>B12mp</item>
+        <item>B13mp</item>
+        <item>B14mp</item>
+        <item>B15mp</item>
+        <item>B16mp</item>
+        <item>B17mp</item>
+        <item>B18up</item>
+        <item>B18mp</item>
+        <item>B19mp</item>
+        <item>B1k</item>
+        <item>B1kp</item>
+        <item>B1xmd</item>
+        <item>B20mp</item>
+        <item>B21mp</item>
+    </string-array>
+
+    <string-array name="icons_1_names">
+        <item>B</item>
+        <item>B</item>
+        <item>B</item>
+        <item>B</item>
+        <item>B</item>
+        <item>B</item>
+        <item>B</item>
+        <item>B</item>
+        <item>B</item>
+        <item>B</item>
+        <item>B</item>
+        <item>B</item>
+        <item>B</item>
+        <item>B</item>
+        <item>B</item>
+        <item>B</item>
+        <item>B</item>
+        <item>B</item>
+    </string-array>
 </resources>
